@@ -5,6 +5,8 @@
 Laravel G4T WebShot is a powerful PHP package designed to capture screenshots or generate PDFs from any web page.
 It provides robust functionality for managing and retrieving screen dimensions based on predefined identifiers.
 
+![Laravel G4T WebShot](https://github.com/hussein4alaa/laravel-g4t-webshot/blob/master/banner.png)
+
 ## Installation
 
 To install the Laravel G4T WebShot, follow these steps:
