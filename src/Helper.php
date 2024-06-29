@@ -85,7 +85,7 @@ trait Helper {
 
     public function getSize($size)
     {
-        return $this->sizes[$size] ?? null;
+        return isset($this->sizes[$size]) ? $this->sizes[$size] : null;
     }
 
 }

@@ -70,7 +70,7 @@ class Screenshot
     public function size($size = '14-inc')
     {
         $dimensions = (object)$this->getSize($size);
-        if ($dimensions) {
+        if (isset($dimensions->width)) {
             $this->width = $dimensions->width;
             $this->height = $dimensions->height;
         }
