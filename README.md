@@ -111,7 +111,7 @@ Contributions to the Laravel G4T WebShot Package are always welcome! If you find
 
 ## License
 
-The Swagger Laravel G4T WebShot is open-source software licensed under the [MIT license](LICENSE.md).
+The Laravel G4T WebShot is open-source software licensed under the [MIT license](LICENSE.md).
 
 ## Credits
 
