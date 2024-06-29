@@ -1,0 +1,32 @@
+{
+  "name": "g4t/webshot",
+  "description": "Package to take screenshoot for web page as image or pdf.",
+  "keywords": [
+    "laravel",
+    "php",
+    "web",
+    "screenshot"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "g4t\\WebShot\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "HusseinAlaa",
+      "email": "hussein4alaa@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "extra": {
+    "laravel": {
+      "providers": [
+        "g4t\\WebShot\\ServiceProvider"
+      ]
+    }
+  }
+}
